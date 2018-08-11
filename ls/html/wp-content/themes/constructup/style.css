@@ -1,0 +1,22 @@
+/*
+Theme Name: Constructup
+Theme URI: https://themeansar.com/demo/wp/financeup/construction/
+Author: themeansar
+Author URI: https://themeansar.com/
+Template: financeup
+Description: Constructup is full fledged WordPress theme for construction website. It fits creative construction business, corporate business, online, portfolio, woocommerce, The theme is responsiv, WPML, SEO friendly, column, custom logo, feature slider, service, callout, home page template. demo at https://themeansar.com/demo/wp/financeup/construction/
+Version: 0.4
+Tags: three-columns, right-sidebar, custom-colors, custom-logo, featured-images
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: constructup
+*/
+
+.boxed {
+	width: 1170px;
+	margin: 0 auto;
+	padding:20px 0;
+}
+.boxed > .wrapper{
+	box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+}
